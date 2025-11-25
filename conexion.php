@@ -1,8 +1,8 @@
 <?php
 $hostname="localhost";
-$user="axlcapa1_alfredo";
-$pass="Assassin85axl";
-$bdd="axlcapa1_siom";
+$user="axlcapa1_edgar";
+$pass="Edgar2025axl#";
+$bdd="axlcapa1_SIOM";
 
 $link = mysqli_connect($hostname, $user, $pass);
 
